@@ -1,0 +1,34 @@
+<annotation>
+  <folder>images</folder>
+  <filename>0070.JPEG</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>275</width>
+    <height>183</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>damage</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>149</xmin>
+      <ymin>99</ymin>
+      <xmax>206</xmax>
+      <ymax>149</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>damage</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>113</xmin>
+      <ymin>120</ymin>
+      <xmax>138</xmax>
+      <ymax>155</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>0090.JPEG</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>259</width>
+    <height>194</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>damage</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>53</xmin>
+      <ymin>27</ymin>
+      <xmax>212</xmax>
+      <ymax>75</ymax>
+    </bndbox>
+  </object>
+</annotation>
